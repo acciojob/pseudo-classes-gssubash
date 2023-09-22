@@ -12,7 +12,7 @@ article>p:nth-child(2){
 	color: black;
 }
 
-article>p:last-of-type{
+p#la:last-of-type{
 	color: red;
 }
 
